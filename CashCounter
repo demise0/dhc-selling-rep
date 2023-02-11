@@ -1,0 +1,2 @@
+-- GS21 Cash Counter
+loadstring(game:HttpGet('https://raw.githubusercontent.com/GS21Official/Seller-Tools/main/DaHood%20Cash%20Counter'))()
